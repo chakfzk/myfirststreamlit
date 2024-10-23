@@ -1,4 +1,5 @@
 import streamlit as st
+st.set_page_config(page_title="연습용페이지(김영준)", page_icon="😁")
 
 st.title("과학 퀴즈")
 
@@ -6,8 +7,7 @@ st.title("과학 퀴즈")
 option=st.radio("선생님의 이름은 무엇일까요?", ["김","영","준","김영준","김준영"])
 if option=='김영준':
     st.success("정답!!")
-    st.balloons()
-    
+
 else:
     st.error("실패!!")
 
