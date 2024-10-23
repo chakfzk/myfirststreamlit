@@ -1,4 +1,5 @@
 import streamlit as st
+st.set_page_config(page_title="연수용 사이트", page_icon="😁")
 
 st.title("👋🏻 연수 실습 페이지 1023")
 st.subheader("이 페이지는 영준쌤이 만들었습니다.")
