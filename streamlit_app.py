@@ -6,7 +6,7 @@ st.info("10월 23일 수요일에 연수를 들으며 만들고 있습니다. �
 st.link_button("영준쌤의 과학", "https://www.notion.so/yngjn0/92e1ac1c012040989ac07efae302c53b")
 
 st.success("초록색 창")
-st.error("빨간색 창")
+# st.error("빨간색 창")
 st.info("파란색 창")
 st.warning("노란색 창") # ctrl+/ : 주석처리
 st.image("https://media.giphy.com/media/lGHFhGuIUX6tW/giphy.gif?cid=ecf05e47nxamoc2hpphvhgqo4tcqqy8hbcvzhntmc7jbs9y0&ep=v1_gifs_search&rid=giphy.gif&ct=g","funny free kick") 
